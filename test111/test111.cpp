@@ -1,6 +1,5 @@
 ﻿// test111.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-
 #include "pch.h"
 #include <iostream>
 
@@ -8,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n"; 
 	std::cout << "Hello World2!\n";
+	int a, b, c;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
